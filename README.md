@@ -4,7 +4,7 @@
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MauricioAquino&repo=devweekgit-aquino.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aquino-mquricio&repo=devweekgit-aquino.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
 
