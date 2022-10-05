@@ -8,7 +8,7 @@ Estudante de programação, e dando os primeiros passos para num futuro não mui
 
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioAquino&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino-mauricio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projetos
 
