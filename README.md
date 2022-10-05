@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá 👋
+
+
+#### Meu nome é Mauricio Aquino.
+Desenhista, artista gráfico e tatuador profissional desde 2001. Formado em contabilidade, estudo economia e marcado financeiro desde 2019, atualmente com ênfase em cripo ativos e blockchain.
+
+Estudante de programação, e dando os primeiros passos para num futuro não muito distante, engressar na carreira de tecnologia. 
+
+#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioAquino&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
