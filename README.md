@@ -12,7 +12,7 @@ Estudante de programação, e dando os primeiros passos para num futuro não mui
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aquino-mauricio&repo=devweek-aquino.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aquino-mauricio&repo=devweek-aquino.github.io)](https://aquino-mauricio.github.io/devweek-aquino.github.io/)
 
 # Contatos
 
