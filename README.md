@@ -10,7 +10,6 @@ Estudante de programação, e dando os primeiros passos para num futuro não mui
 ![swift](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 #
 
-  ///[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino-mauricio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <a href="https://github.com/aquino.mauricio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aquino-mauricio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
