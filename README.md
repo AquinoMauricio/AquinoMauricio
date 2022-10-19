@@ -1,10 +1,10 @@
-### Olá 
+### Hello 
 
 
-#### Meu nome é Mauricio Aquino.
-Desenhista, artista gráfico e tatuador profissional desde 2001. Formado em contabilidade, estudo economia e mercado financeiro desde 2018, atualmente com ênfase em cripto ativos e blockchain.
+#### My name is Mauricio Aquino.
+Designer, graphic artist and Professional Tattoo Artist since 2001. Graduated in Accounting, I study Economiy and Financial Market since 2018, currently focusing on Crypo Assets, Blockchain and Decentralized Finance.
 
-Estudante de programação, e dando os primeiros passos para num futuro não muito distante, ingressar na carreira de tecnologia. 
+Software Developer student, and taking the first steps towards, in a near future, join the tech career. 
 #
 ![swift](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![swift](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -20,11 +20,11 @@ Estudante de programação, e dando os primeiros passos para num futuro não mui
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mauricio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-# Projetos
+# Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aquino-mauricio&repo=devweek-aquino.github.io)](https://aquino-mauricio.github.io/devweek-aquino.github.io/)
 
-# Contatos
+# Contacts
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/mauricioaquino/)
   
