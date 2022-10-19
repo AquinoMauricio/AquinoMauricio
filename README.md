@@ -1,10 +1,10 @@
 ### Olá 
 
 
-#### Meu nome é Mauricio Aquino.
+<#### Meu nome é Mauricio Aquino.
 Desenhista, artista gráfico e tatuador profissional desde 2001. Formado em contabilidade, estudo economia e mercado financeiro desde 2018, atualmente com ênfase em cripto ativos e blockchain.
 
-Estudante de programação, e dando os primeiros passos para num futuro não muito distante, ingressar na carreira de tecnologia. 
+Estudante de programação, e dando os primeiros passos para num futuro não muito distante, ingressar na carreira de tecnologia.> 
 #
 ![swift](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![swift](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
