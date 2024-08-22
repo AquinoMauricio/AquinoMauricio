@@ -6,6 +6,7 @@ Designer, graphic artist and Professional Tattoo Artist since 2001. Graduated in
 
 Software Developer student, and taking the first steps towards, in a near future, join the tech career. 
 
+
 #CódigoBrazuca
 
 #MoonVilla Mooner2878
