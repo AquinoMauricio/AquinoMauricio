@@ -6,13 +6,13 @@ Designer, graphic artist and Professional Tattoo Artist since 2001. Graduated in
 
 Software Developer student, and taking the first steps towards, in a near future, join the tech career. 
 
- #CódigoBrazuca 
+#CódigoBrazuca 
  .
- #MoonVilla Mooner2878 
+#MoonVilla Mooner2878 
  .
- #ZeroParalelo 
+#ZeroParalelo 
  .
- #YeldHacker1312 
+#YeldHacker1312 
 
 #
 ![swift](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
