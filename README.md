@@ -5,6 +5,12 @@
 Designer, graphic artist and Professional Tattoo Artist since 2001. Graduated in Accounting, I study Economiy and Financial Market since 2018, currently focusing on Crypo Assets, Blockchain and Decentralized Finance.
 
 Software Developer student, and taking the first steps towards, in a near future, join the tech career. 
+
+#CódigoBrazuca
+#MoonVilla Mooner2878
+#ZeroParalelo
+#YeldHacker1312
+
 #
 ![swift](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![swift](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
